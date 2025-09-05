@@ -10,14 +10,14 @@
 
 ## 🚀 Minhas Skills
 
-
-<code><img src="https://skillicons.dev/icons?i=photoshop" height="32" alt="photoshop logo" />
-<code><img src="https://skillicons.dev/icons?i=illustrator" height="32" alt="illustrator logo" />
-<code><img src="https://skillicons.dev/icons?i=html" height="32" alt="html logo" />
-<code><img src="https://skillicons.dev/icons?i=css" height="32" alt="css logo" />
-<code><img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"/>
-<code><img src="https://skillicons.dev/icons?i=instagram" height="32" alt="instagram logo"/>
-<code><img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"/>
+<div aling="center" stylr="display: inline_nlock">
+<code><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo" />
+<code><img src="https://skillicons.dev/icons?i=illustrator" height="50" alt="illustrator logo" />
+<code><img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+<code><img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+<code><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"/>
+<code><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo"/>
+<code><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"/>
 ---
 
 ## ⭐ GitHub Stats
