@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {nicolas lourenço}!
+## Olá, meu nome é nicolas lourenço!
 
 
 
